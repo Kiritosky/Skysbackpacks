@@ -1,0 +1,5 @@
+name: Skysbackpacks
+version: '${project.version}'
+main: jxst_kirito.skysbackpacks.Skysbackpacks
+api-version: '1.20'
+authors: [Jxst_Kirito]
